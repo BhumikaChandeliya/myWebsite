@@ -1,0 +1,74 @@
+img{
+    height: 70vh;
+    width: 150vh;
+}
+.container{
+    display: flex;
+    align-items: center ;
+    gap: 15px;
+}
+button{
+    height: 20px;
+    width: 80px;
+   }
+   .ten{
+    margin-left: 740px;
+    border: none;
+    background-color: #ffffff;
+   }
+   .bet{
+    height: 150px;
+    width: 150px;
+    }
+   h3{
+    font-size: 15px;
+   }
+   .met{
+    display:flex ;
+    gap: 440px;
+   }
+   h1{
+    font-style: oblique;
+    position: fixed;
+    top: 300px;
+    left: 550px;
+    color: rgb(254, 248, 59);
+    font-size: 50px;
+   }
+   .hat{
+    position: fixed;
+    top: 400px;
+    left: 700px;
+    color: rgb(254, 248, 59);
+   }
+   .lot{
+    height: 30px;
+    width: 130px;
+    background-color: rgb(254, 248, 59);
+    border-radius: 10px;
+    border: 0.5px solid black;
+    position: fixed;
+    top: 470px;
+    left: 800px;
+   }
+   body{
+    display: flex;
+    justify-content: center;
+   }
+   .ket{
+    border: none;
+    background-color: #ffffff;
+    cursor: pointer
+   }
+   .ket:hover{
+    border-bottom: 1px solid black;
+   }
+   .det{
+    height: 40px;
+    width: 40px;
+    margin-left: 30px;
+   }
+
+
+
+  
